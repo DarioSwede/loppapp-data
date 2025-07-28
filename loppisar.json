@@ -1,6 +1,6 @@
 [
   {
-    "id": "loppistajm-717c17cb",
+    "id": "loppistajm-dd9275f9",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-02T10:00:00",
@@ -9,8 +9,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "id": "loppistajm-9a958f16",
+    "id": "loppistajm-3558358e",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-02T10:00:00",
@@ -28,8 +28,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "id": "loppistajm-157ae46f",
+    "id": "loppistajm-c7b33b5b",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-02T10:00:00",
@@ -47,8 +47,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "id": "loppistajm-e17af487",
+    "id": "loppistajm-8aaa996c",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-02T10:00:00",
@@ -66,8 +66,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": "loppistajm-ba05b225",
+    "id": "loppistajm-2adc9cdc",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-03T10:00:00",
@@ -85,8 +85,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "id": "loppistajm-30d79e93",
+    "id": "loppistajm-4e7fe55e",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-03T10:00:00",
@@ -104,8 +104,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -114,7 +114,7 @@
     ]
   },
   {
-    "id": "loppistajm-1ecc5e5a",
+    "id": "loppistajm-341e54d2",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-09T10:00:00",
@@ -123,8 +123,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "id": "loppistajm-d6d923ef",
+    "id": "loppistajm-c8f9be71",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-09T10:00:00",
@@ -142,8 +142,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "id": "loppistajm-f099bb15",
+    "id": "loppistajm-2f4a2465",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-09T10:00:00",
@@ -161,8 +161,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "id": "loppistajm-d2be4bd4",
+    "id": "loppistajm-c1346136",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-09T10:00:00",
@@ -180,8 +180,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "id": "loppistajm-1a802f6c",
+    "id": "loppistajm-4df6c6dc",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-09T10:00:00",
@@ -199,8 +199,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "id": "loppistajm-24838440",
+    "id": "loppistajm-49a1ca69",
     "title": "Bakluckeloppis Täby Arninge",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-10T10:00:00",
@@ -218,8 +218,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4502,
+      "longitude": 18.0705
     },
     "url": "https://loppistajm.se/arninge",
     "organizer": "Loppistajm",
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "id": "loppistajm-82090be0",
+    "id": "loppistajm-c0d8af80",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-10T10:00:00",
@@ -237,8 +237,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "id": "loppistajm-978cd590",
+    "id": "loppistajm-abc56fed",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-10T10:00:00",
@@ -256,8 +256,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "id": "loppistajm-85950751",
+    "id": "loppistajm-227dabbb",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-10T10:00:00",
@@ -275,8 +275,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "id": "loppistajm-f2e1feb9",
+    "id": "loppistajm-8d68d5f6",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-16T10:00:00",
@@ -294,8 +294,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "id": "loppistajm-06c1e625",
+    "id": "loppistajm-7a83abf4",
     "title": "Bakluckeloppis Värtahamnen",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-16T10:00:00",
@@ -313,8 +313,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.351,
+      "longitude": 18.106
     },
     "url": "https://loppistajm.se/vartahamnen",
     "organizer": "Loppistajm",
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "id": "loppistajm-0a943128",
+    "id": "loppistajm-57674587",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-16T10:00:00",
@@ -332,8 +332,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "id": "loppistajm-0fc6abc2",
+    "id": "loppistajm-71ac1831",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-16T10:00:00",
@@ -351,8 +351,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -361,7 +361,7 @@
     ]
   },
   {
-    "id": "loppistajm-6d6ab388",
+    "id": "loppistajm-07fa9e44",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-17T10:00:00",
@@ -370,8 +370,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -380,7 +380,7 @@
     ]
   },
   {
-    "id": "loppistajm-e5aee676",
+    "id": "loppistajm-63541b7e",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-17T10:00:00",
@@ -389,8 +389,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "id": "loppistajm-dc37d49b",
+    "id": "loppistajm-21a7feb4",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-17T10:00:00",
@@ -408,8 +408,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "id": "loppistajm-571d56ea",
+    "id": "loppistajm-d00464f1",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-17T10:00:00",
@@ -427,8 +427,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -437,7 +437,7 @@
     ]
   },
   {
-    "id": "loppistajm-8e86bf57",
+    "id": "loppistajm-a5aebec1",
     "title": "Bakluckeloppis Värtahamnen",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-23T10:00:00",
@@ -446,8 +446,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.351,
+      "longitude": 18.106
     },
     "url": "https://loppistajm.se/vartahamnen",
     "organizer": "Loppistajm",
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "id": "loppistajm-3a30a7fd",
+    "id": "loppistajm-9511a92e",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-23T10:00:00",
@@ -465,8 +465,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "id": "loppistajm-21991ecc",
+    "id": "loppistajm-86e6d4b1",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-23T10:00:00",
@@ -484,8 +484,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "id": "loppistajm-01c80147",
+    "id": "loppistajm-882768b5",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-23T10:00:00",
@@ -503,8 +503,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -513,7 +513,7 @@
     ]
   },
   {
-    "id": "loppistajm-eedbd95b",
+    "id": "loppistajm-b713a625",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-23T10:00:00",
@@ -522,8 +522,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -532,7 +532,7 @@
     ]
   },
   {
-    "id": "loppistajm-9c55623a",
+    "id": "loppistajm-36477f4f",
     "title": "Bakluckeloppis Täby Arninge",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-24T10:00:00",
@@ -541,8 +541,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4502,
+      "longitude": 18.0705
     },
     "url": "https://loppistajm.se/arninge",
     "organizer": "Loppistajm",
@@ -551,7 +551,7 @@
     ]
   },
   {
-    "id": "loppistajm-9348afca",
+    "id": "loppistajm-bbefd031",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-24T10:00:00",
@@ -560,8 +560,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "id": "loppistajm-2e4bdd61",
+    "id": "loppistajm-60260eac",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-24T10:00:00",
@@ -579,8 +579,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -589,7 +589,7 @@
     ]
   },
   {
-    "id": "loppistajm-68e810f8",
+    "id": "loppistajm-17f1e96f",
     "title": "Loppis Viksjö",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-30T10:00:00",
@@ -608,7 +608,7 @@
     ]
   },
   {
-    "id": "loppistajm-5c1edaf6",
+    "id": "loppistajm-547407f5",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-30T10:00:00",
@@ -617,8 +617,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -627,7 +627,7 @@
     ]
   },
   {
-    "id": "loppistajm-9c22470f",
+    "id": "loppistajm-aa4d3d4d",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-30T10:00:00",
@@ -636,8 +636,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -646,7 +646,7 @@
     ]
   },
   {
-    "id": "loppistajm-40d33a25",
+    "id": "loppistajm-c2ffb719",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-31T10:00:00",
@@ -655,8 +655,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "id": "loppistajm-bd1faa2b",
+    "id": "loppistajm-9c4706cc",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-08-31T10:00:00",
@@ -674,8 +674,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "id": "loppistajm-1a94320f",
+    "id": "loppistajm-921fb744",
     "title": "Bakluckeloppis Täby Arninge",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-06T10:00:00",
@@ -693,8 +693,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4502,
+      "longitude": 18.0705
     },
     "url": "https://loppistajm.se/arninge",
     "organizer": "Loppistajm",
@@ -703,7 +703,7 @@
     ]
   },
   {
-    "id": "loppistajm-20295f59",
+    "id": "loppistajm-36c99fb3",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-06T10:00:00",
@@ -712,8 +712,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -722,7 +722,7 @@
     ]
   },
   {
-    "id": "loppistajm-0831400b",
+    "id": "loppistajm-c1dde793",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-06T10:00:00",
@@ -731,8 +731,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -741,7 +741,7 @@
     ]
   },
   {
-    "id": "loppistajm-cbabbeb5",
+    "id": "loppistajm-08856cd6",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-06T10:00:00",
@@ -750,8 +750,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -760,7 +760,7 @@
     ]
   },
   {
-    "id": "loppistajm-bfea495f",
+    "id": "loppistajm-d044e53b",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-06T10:00:00",
@@ -769,8 +769,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -779,7 +779,7 @@
     ]
   },
   {
-    "id": "loppistajm-5279f538",
+    "id": "loppistajm-5d67ffd7",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-06T10:00:00",
@@ -788,8 +788,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "id": "loppistajm-666cfc2a",
+    "id": "loppistajm-40a8431f",
     "title": "Bakluckeloppis Täby Arninge",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-07T10:00:00",
@@ -807,8 +807,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4502,
+      "longitude": 18.0705
     },
     "url": "https://loppistajm.se/arninge",
     "organizer": "Loppistajm",
@@ -817,7 +817,7 @@
     ]
   },
   {
-    "id": "loppistajm-73315e63",
+    "id": "loppistajm-4cfb06d8",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-07T10:00:00",
@@ -826,8 +826,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "id": "loppistajm-24d0c674",
+    "id": "loppistajm-53cb42b6",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-07T10:00:00",
@@ -845,8 +845,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -855,7 +855,7 @@
     ]
   },
   {
-    "id": "loppistajm-50b0bf69",
+    "id": "loppistajm-244cfb72",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-07T10:00:00",
@@ -864,8 +864,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "id": "loppistajm-c195cb43",
+    "id": "loppistajm-cb95374b",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-07T10:00:00",
@@ -883,8 +883,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -893,7 +893,7 @@
     ]
   },
   {
-    "id": "loppistajm-b19ae94a",
+    "id": "loppistajm-6bc458eb",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-13T10:00:00",
@@ -902,8 +902,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "id": "loppistajm-c450ba84",
+    "id": "loppistajm-5f8bd891",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-13T10:00:00",
@@ -921,8 +921,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -931,7 +931,7 @@
     ]
   },
   {
-    "id": "loppistajm-acfbb6dc",
+    "id": "loppistajm-671ef165",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-13T10:00:00",
@@ -940,8 +940,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "id": "loppistajm-15552d99",
+    "id": "loppistajm-21747f92",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-13T10:00:00",
@@ -959,8 +959,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -969,7 +969,7 @@
     ]
   },
   {
-    "id": "loppistajm-ea38d0d4",
+    "id": "loppistajm-8dc0a41f",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-13T10:00:00",
@@ -978,8 +978,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -988,7 +988,7 @@
     ]
   },
   {
-    "id": "loppistajm-24901027",
+    "id": "loppistajm-1bb36d6c",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-14T10:00:00",
@@ -997,8 +997,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -1007,7 +1007,7 @@
     ]
   },
   {
-    "id": "loppistajm-0ca4e605",
+    "id": "loppistajm-276bbb6a",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-14T10:00:00",
@@ -1016,8 +1016,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "id": "loppistajm-c8d9976a",
+    "id": "loppistajm-d5e8f066",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-14T10:00:00",
@@ -1035,8 +1035,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -1045,7 +1045,7 @@
     ]
   },
   {
-    "id": "loppistajm-98b31abb",
+    "id": "loppistajm-c642e9d2",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-14T10:00:00",
@@ -1054,8 +1054,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "id": "loppistajm-e8a63b59",
+    "id": "loppistajm-0c98c20d",
     "title": "Bakluckeloppis Täby Arninge",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-20T10:00:00",
@@ -1073,8 +1073,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4502,
+      "longitude": 18.0705
     },
     "url": "https://loppistajm.se/arninge",
     "organizer": "Loppistajm",
@@ -1083,7 +1083,7 @@
     ]
   },
   {
-    "id": "loppistajm-cc83fda8",
+    "id": "loppistajm-dd405b09",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-20T10:00:00",
@@ -1092,8 +1092,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -1102,7 +1102,7 @@
     ]
   },
   {
-    "id": "loppistajm-be26a2c3",
+    "id": "loppistajm-36a56ba7",
     "title": "Loppis Bro Centrum",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-20T10:00:00",
@@ -1111,8 +1111,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.517,
+      "longitude": 17.6384
     },
     "url": "https://loppistajm.se/bro",
     "organizer": "Loppistajm",
@@ -1121,7 +1121,7 @@
     ]
   },
   {
-    "id": "loppistajm-34528eca",
+    "id": "loppistajm-f30dd907",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-20T10:00:00",
@@ -1130,8 +1130,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -1140,7 +1140,7 @@
     ]
   },
   {
-    "id": "loppistajm-3d891393",
+    "id": "loppistajm-1b7838c9",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-20T10:00:00",
@@ -1149,8 +1149,8 @@
       "address": "Roslagsstoppet",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -1159,7 +1159,7 @@
     ]
   },
   {
-    "id": "loppistajm-1c0807bc",
+    "id": "loppistajm-8fa96c42",
     "title": "Bakluckeloppis Täby Arninge",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-21T10:00:00",
@@ -1168,8 +1168,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4502,
+      "longitude": 18.0705
     },
     "url": "https://loppistajm.se/arninge",
     "organizer": "Loppistajm",
@@ -1178,7 +1178,7 @@
     ]
   },
   {
-    "id": "loppistajm-0451df6a",
+    "id": "loppistajm-9cf3ff26",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-21T10:00:00",
@@ -1187,8 +1187,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -1197,7 +1197,7 @@
     ]
   },
   {
-    "id": "loppistajm-e4731f4b",
+    "id": "loppistajm-358d0c86",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-21T10:00:00",
@@ -1206,8 +1206,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -1216,7 +1216,7 @@
     ]
   },
   {
-    "id": "loppistajm-e4ab1d11",
+    "id": "loppistajm-5370301a",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-21T10:00:00",
@@ -1225,8 +1225,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1235,7 +1235,7 @@
     ]
   },
   {
-    "id": "loppistajm-3a717865",
+    "id": "loppistajm-58c64d18",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-27T10:00:00",
@@ -1244,8 +1244,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "id": "loppistajm-8cae6bec",
+    "id": "loppistajm-da582534",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-27T10:00:00",
@@ -1263,8 +1263,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -1273,7 +1273,7 @@
     ]
   },
   {
-    "id": "loppistajm-09bb993b",
+    "id": "loppistajm-86c1b939",
     "title": "Loppis Edsberg",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-27T10:00:00",
@@ -1282,8 +1282,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4384,
+      "longitude": 17.9617
     },
     "url": "https://loppistajm.se/edsberg",
     "organizer": "Loppistajm",
@@ -1292,7 +1292,7 @@
     ]
   },
   {
-    "id": "loppistajm-c6415c66",
+    "id": "loppistajm-19c823df",
     "title": "Bakluckeloppis Hågelby",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-27T10:00:00",
@@ -1301,8 +1301,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.2397,
+      "longitude": 17.8445
     },
     "url": "https://loppistajm.se/https://botkyrkaloppis.se",
     "organizer": "Loppistajm",
@@ -1311,7 +1311,7 @@
     ]
   },
   {
-    "id": "loppistajm-15d45711",
+    "id": "loppistajm-5681b872",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-27T10:00:00",
@@ -1320,8 +1320,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -1330,7 +1330,7 @@
     ]
   },
   {
-    "id": "loppistajm-baca34f3",
+    "id": "loppistajm-8ba9879e",
     "title": "Loppis Fatbursparken Södermalm",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-28T10:00:00",
@@ -1339,8 +1339,8 @@
       "address": "Södermalm",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.314,
+      "longitude": 18.0615
     },
     "url": "https://loppistajm.se/fatbursparken",
     "organizer": "Loppistajm",
@@ -1349,7 +1349,7 @@
     ]
   },
   {
-    "id": "loppistajm-9c86f5bc",
+    "id": "loppistajm-5ba539cb",
     "title": "Superduper-bakluckeloppis Vällingby Åregaraget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-28T10:00:00",
@@ -1358,8 +1358,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3625,
+      "longitude": 17.8723
     },
     "url": "https://loppistajm.se/https://stockholmsmarknader.se/vallingby/are",
     "organizer": "Loppistajm",
@@ -1368,7 +1368,7 @@
     ]
   },
   {
-    "id": "loppistajm-f88058ac",
+    "id": "loppistajm-fb4287e6",
     "title": "Bakluckeloppis Roslagsstoppet",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-28T10:00:00",
@@ -1377,8 +1377,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.5142,
+      "longitude": 18.3057
     },
     "url": "https://loppistajm.se/https://roslagsloppis.se",
     "organizer": "Loppistajm",
@@ -1387,7 +1387,7 @@
     ]
   },
   {
-    "id": "loppistajm-d7aa21a8",
+    "id": "loppistajm-773ce375",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-09-28T10:00:00",
@@ -1396,8 +1396,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1406,7 +1406,7 @@
     ]
   },
   {
-    "id": "loppistajm-2d3f21ea",
+    "id": "loppistajm-d3d85a9f",
     "title": "Bakluckeloppis Sickla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-04T10:00:00",
@@ -1415,8 +1415,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3067,
+      "longitude": 18.1213
     },
     "url": "https://loppistajm.se/sickla",
     "organizer": "Loppistajm",
@@ -1425,7 +1425,7 @@
     ]
   },
   {
-    "id": "loppistajm-3b8d74a7",
+    "id": "loppistajm-21a55ba4",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-04T10:00:00",
@@ -1434,8 +1434,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -1444,7 +1444,7 @@
     ]
   },
   {
-    "id": "loppistajm-4f7f535a",
+    "id": "loppistajm-d3d90112",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-04T10:00:00",
@@ -1453,8 +1453,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -1463,7 +1463,7 @@
     ]
   },
   {
-    "id": "loppistajm-5a406c5e",
+    "id": "loppistajm-2e04f55e",
     "title": "Bakluckeloppis Sickla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-05T10:00:00",
@@ -1472,8 +1472,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3067,
+      "longitude": 18.1213
     },
     "url": "https://loppistajm.se/sickla",
     "organizer": "Loppistajm",
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "id": "loppistajm-0242e23e",
+    "id": "loppistajm-fc58bc3e",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-05T10:00:00",
@@ -1491,8 +1491,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -1501,7 +1501,7 @@
     ]
   },
   {
-    "id": "loppistajm-f8fd3c0f",
+    "id": "loppistajm-699778fe",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-05T10:00:00",
@@ -1510,8 +1510,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1520,7 +1520,7 @@
     ]
   },
   {
-    "id": "loppistajm-f76c990c",
+    "id": "loppistajm-6302d69c",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-11T10:00:00",
@@ -1529,8 +1529,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -1539,7 +1539,7 @@
     ]
   },
   {
-    "id": "loppistajm-3328eae1",
+    "id": "loppistajm-3068a08a",
     "title": "Bakluckeloppis Liljeholmen",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-12T10:00:00",
@@ -1548,8 +1548,8 @@
       "address": "Liljeholmen",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3108,
+      "longitude": 18.0213
     },
     "url": "https://loppistajm.se/liljeholmen",
     "organizer": "Loppistajm",
@@ -1558,7 +1558,7 @@
     ]
   },
   {
-    "id": "loppistajm-ca7cbc23",
+    "id": "loppistajm-ad95e322",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-12T10:00:00",
@@ -1567,8 +1567,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1577,7 +1577,7 @@
     ]
   },
   {
-    "id": "loppistajm-4deffd6d",
+    "id": "loppistajm-a12ec663",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-18T10:00:00",
@@ -1586,8 +1586,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -1596,7 +1596,7 @@
     ]
   },
   {
-    "id": "loppistajm-85dbf79d",
+    "id": "loppistajm-edfc2bff",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-18T10:00:00",
@@ -1605,8 +1605,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -1615,7 +1615,7 @@
     ]
   },
   {
-    "id": "loppistajm-5b03d702",
+    "id": "loppistajm-b6aa426c",
     "title": "Bakluckeloppis Solvalla",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-19T10:00:00",
@@ -1624,8 +1624,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.37,
+      "longitude": 17.9383
     },
     "url": "https://loppistajm.se/https://solvallaloppis.se",
     "organizer": "Loppistajm",
@@ -1634,7 +1634,7 @@
     ]
   },
   {
-    "id": "loppistajm-d75b578b",
+    "id": "loppistajm-9cad4d21",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-19T10:00:00",
@@ -1643,8 +1643,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1653,7 +1653,7 @@
     ]
   },
   {
-    "id": "loppistajm-c53eec98",
+    "id": "loppistajm-e85a3593",
     "title": "Loppis Huvudsta",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-25T10:00:00",
@@ -1662,8 +1662,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3534,
+      "longitude": 17.9858
     },
     "url": "https://loppistajm.se/huvudsta",
     "organizer": "Loppistajm",
@@ -1672,7 +1672,7 @@
     ]
   },
   {
-    "id": "loppistajm-d5a6b058",
+    "id": "loppistajm-4221f430",
     "title": "Loppis Karlaplan",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-25T10:00:00",
@@ -1681,8 +1681,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3394,
+      "longitude": 18.0966
     },
     "url": "https://loppistajm.se/karlaplan",
     "organizer": "Loppistajm",
@@ -1691,7 +1691,7 @@
     ]
   },
   {
-    "id": "loppistajm-32856cb7",
+    "id": "loppistajm-3de90550",
     "title": "Bakluckeloppis Kista",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-26T10:00:00",
@@ -1700,8 +1700,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4021,
+      "longitude": 17.9444
     },
     "url": "https://loppistajm.se/kista",
     "organizer": "Loppistajm",
@@ -1710,7 +1710,7 @@
     ]
   },
   {
-    "id": "loppistajm-1a9be82b",
+    "id": "loppistajm-797cab2d",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-10-26T10:00:00",
@@ -1719,8 +1719,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1729,7 +1729,7 @@
     ]
   },
   {
-    "id": "loppistajm-e03dfc35",
+    "id": "loppistajm-80009c52",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-02T10:00:00",
@@ -1738,8 +1738,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1748,7 +1748,7 @@
     ]
   },
   {
-    "id": "loppistajm-3c9ae349",
+    "id": "loppistajm-55974e6b",
     "title": "Bakluckeloppis Liljeholmen",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-09T10:00:00",
@@ -1757,8 +1757,8 @@
       "address": "Liljeholmen",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3108,
+      "longitude": 18.0213
     },
     "url": "https://loppistajm.se/liljeholmen",
     "organizer": "Loppistajm",
@@ -1767,7 +1767,7 @@
     ]
   },
   {
-    "id": "loppistajm-ceaeda73",
+    "id": "loppistajm-3bc3b91d",
     "title": "Bakluckeloppis Vällingby C",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-09T10:00:00",
@@ -1776,8 +1776,8 @@
       "address": "C",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3625,
+      "longitude": 17.8723
     },
     "url": "https://loppistajm.se/vallingby",
     "organizer": "Loppistajm",
@@ -1786,7 +1786,7 @@
     ]
   },
   {
-    "id": "loppistajm-86703fdc",
+    "id": "loppistajm-01387755",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-09T10:00:00",
@@ -1795,8 +1795,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1805,7 +1805,7 @@
     ]
   },
   {
-    "id": "loppistajm-14adca4d",
+    "id": "loppistajm-e3a3cc9b",
     "title": "Bakluckeloppis Kista",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-16T10:00:00",
@@ -1814,8 +1814,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4021,
+      "longitude": 17.9444
     },
     "url": "https://loppistajm.se/kista",
     "organizer": "Loppistajm",
@@ -1824,7 +1824,7 @@
     ]
   },
   {
-    "id": "loppistajm-0d7c1f37",
+    "id": "loppistajm-8b863b03",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-16T10:00:00",
@@ -1833,8 +1833,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1843,7 +1843,7 @@
     ]
   },
   {
-    "id": "loppistajm-7544c4f1",
+    "id": "loppistajm-d461a752",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-23T10:00:00",
@@ -1852,8 +1852,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1862,7 +1862,7 @@
     ]
   },
   {
-    "id": "loppistajm-f9dd44c1",
+    "id": "loppistajm-6fe31bc9",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-11-30T10:00:00",
@@ -1871,8 +1871,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1881,7 +1881,7 @@
     ]
   },
   {
-    "id": "loppistajm-d8f7e047",
+    "id": "loppistajm-45ae10c8",
     "title": "Bakluckeloppis Kista",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-12-07T10:00:00",
@@ -1890,8 +1890,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.4021,
+      "longitude": 17.9444
     },
     "url": "https://loppistajm.se/kista",
     "organizer": "Loppistajm",
@@ -1900,7 +1900,7 @@
     ]
   },
   {
-    "id": "loppistajm-b818a2f1",
+    "id": "loppistajm-ceb75f71",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-12-07T10:00:00",
@@ -1909,8 +1909,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1919,7 +1919,7 @@
     ]
   },
   {
-    "id": "loppistajm-e73a201b",
+    "id": "loppistajm-36ff6e84",
     "title": "Bakluckeloppis Vällingby C",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-12-14T10:00:00",
@@ -1928,8 +1928,8 @@
       "address": "C",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3625,
+      "longitude": 17.8723
     },
     "url": "https://loppistajm.se/vallingby",
     "organizer": "Loppistajm",
@@ -1938,7 +1938,7 @@
     ]
   },
   {
-    "id": "loppistajm-aaeccef5",
+    "id": "loppistajm-18278b79",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-12-14T10:00:00",
@@ -1947,8 +1947,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1957,7 +1957,7 @@
     ]
   },
   {
-    "id": "loppistajm-2cc335d9",
+    "id": "loppistajm-2c7e927b",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-12-21T10:00:00",
@@ -1966,8 +1966,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
@@ -1976,7 +1976,7 @@
     ]
   },
   {
-    "id": "loppistajm-df6b8414",
+    "id": "loppistajm-957dee60",
     "title": "Loppis Hötorget",
     "description": "Hämtad från loppistajm.se",
     "startTime": "2025-12-28T10:00:00",
@@ -1985,8 +1985,8 @@
       "address": ">",
       "city": "Stockholm",
       "district": "",
-      "latitude": 59.33,
-      "longitude": 18.06
+      "latitude": 59.3358,
+      "longitude": 18.0636
     },
     "url": "https://loppistajm.se/hotorget",
     "organizer": "Loppistajm",
