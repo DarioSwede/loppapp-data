@@ -1,0 +1,19 @@
+[
+  {
+    "id": "loppi-001",
+    "title": "Söderloppisen",
+    "description": "Stor uteloppis med över 100 säljare.",
+    "startTime": "2025-07-30T10:00:00+02:00",
+    "endTime": "2025-07-30T15:00:00+02:00",
+    "location": {
+      "address": "Skånegatan 100",
+      "city": "Stockholm",
+      "district": "Södermalm",
+      "latitude": 59.3145,
+      "longitude": 18.0803
+    },
+    "url": "https://soderloppisen.se",
+    "organizer": "Söderloppisen AB",
+    "tags": []
+  }
+]
