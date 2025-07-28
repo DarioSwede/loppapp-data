@@ -1,19 +1,53 @@
 [
   {
-    "id": "loppi-001",
-    "title": "Söderloppisen",
-    "description": "Stor uteloppis med över 100 säljare.",
-    "startTime": "2025-07-30T10:00:00+02:00",
-    "endTime": "2025-07-30T15:00:00+02:00",
+    "id": "loppi-20250803-fatburspar",
+    "title": "Fatbursparken Södermalm",
+    "description": "Hämtad från Loppistajm kalender",
+    "startTime": "2025-08-03T10:00:00+02:00",
+    "endTime": "2025-08-03T15:00:00+02:00",
     "location": {
-      "address": "Skånegatan 100",
+      "address": "Fatbursparken Södermalm",
       "city": "Stockholm",
-      "district": "Södermalm",
+      "district": "",
       "latitude": 59.3145,
-      "longitude": 18.0803
+      "longitude": 18.0649
     },
-    "url": "https://soderloppisen.se",
-    "organizer": "Söderloppisen AB",
-    "tags": []
+    "url": "https://loppistajm.se/kalender.html",
+    "organizer": "Loppistajm",
+    "tags": ["scraped"]
+  },
+  {
+    "id": "loppi-20250804-hornstulls-",
+    "title": "Hornstulls Marknad",
+    "description": "Hämtad från Loppistajm kalender",
+    "startTime": "2025-08-04T10:00:00+02:00",
+    "endTime": "2025-08-04T15:00:00+02:00",
+    "location": {
+      "address": "Hornstulls strand",
+      "city": "Stockholm",
+      "district": "",
+      "latitude": 59.3189,
+      "longitude": 18.0344
+    },
+    "url": "https://loppistajm.se/kalender.html",
+    "organizer": "Loppistajm",
+    "tags": ["scraped"]
+  },
+  {
+    "id": "loppi-20250810-tantolunde",
+    "title": "Tantolunden Bakluckeloppis",
+    "description": "Hämtad från Loppistajm kalender",
+    "startTime": "2025-08-10T10:00:00+02:00",
+    "endTime": "2025-08-10T15:00:00+02:00",
+    "location": {
+      "address": "Tantolunden",
+      "city": "Stockholm",
+      "district": "",
+      "latitude": 59.3160,
+      "longitude": 18.0368
+    },
+    "url": "https://loppistajm.se/kalender.html",
+    "organizer": "Loppistajm",
+    "tags": ["scraped"]
   }
 ]
