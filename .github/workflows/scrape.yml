@@ -1,11 +1,12 @@
 # .github/workflows/scrape.yml
 # Skapad: 2025-07-29 23:59
+
 name: Automatiskt hämta loppisdata
 
 on:
   schedule:
-    - cron: '59 23 * * *' # varje dag kl 23:59
-  workflow_dispatch: # manuellt körbar från GitHub UI
+    - cron: '59 23 * * *'  # Kör varje natt kl 23:59
+  workflow_dispatch:        # Tillåt manuell körning via GitHub UI
 
 jobs:
   scrape:
