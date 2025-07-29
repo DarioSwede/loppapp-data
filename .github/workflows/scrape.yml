@@ -13,38 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Klona repo
+      - name: 🧾 Klona repo
         uses: actions/checkout@v3
 
       - name: 🐍 Installera Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
       - name: 📦 Installera beroenden
         run: pip install beautifulsoup4 requests
 
-      - name: 🧹 Kör scraping-scriptet
+      - name: 🧹 Kör scraping-script
         run: python scrape_loppistajm.py
 
-      - name: 💾 Committa & pusha JSON
+      - name: ✅ Commit & Push om ändringar finns
         run: |
-          git config user.name "GitHub Action"
+          git config user.name "github-actions"
           git config user.email "darioswede@gmail.com"
           git add loppisar.json
-          git commit -m "🆕 Uppdaterade loppisar.json automatiskt $(date '+%Y-%m-%d %H:%M')" || echo "Inget nytt att committa"
-          git push
-
-      - name: 📬 Skicka e-post vid fel
-        if: failure()
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "❌ LoppApp GitHub Action misslyckades"
-          body: "Nattens scraping misslyckades.\nSe loggen: https://github.com/DarioSwede/loppapp-data/actions"
-          to: darioswede@gmail.com
-          from: LoppApp GitHub <darioswede@gmail.com>
-          secure: true
+          if git diff --cached --quiet; then
+            echo "⚠️ Inga ändringar i loppisar.json"
+          else
+            git commit -m "🤖 Uppdaterad loppisar.json via GitHub Actions"
+            git push
+          fi
