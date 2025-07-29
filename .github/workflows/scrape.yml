@@ -4,57 +4,46 @@ name: Automatiskt hämta loppisdata
 
 on:
   schedule:
-    - cron: '59 23 * * *'  # Kör varje dag kl 23:59 UTC
-  workflow_dispatch:       # Tillåter manuell start
+    - cron: '59 23 * * *' # varje dag kl 23:59
+  workflow_dispatch: # manuellt körbar från GitHub UI
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Klona repo
+      - name: 📥 Klona repo
         uses: actions/checkout@v3
 
-      - name: Installera Python och beroenden
+      - name: 🐍 Installera Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Installera paket
+      - name: 📦 Installera beroenden
         run: pip install beautifulsoup4 requests
 
-      - name: Kör scraping-script och logga
-        run: |
-          echo "🕒 Kör scraping $(date)" > scrape.log
-          python scrape_loppistajm.py >> scrape.log 2>&1
-          echo "✅ Klar $(date)" >> scrape.log
+      - name: 🧹 Kör scraping-scriptet
+        run: python scrape_loppistajm.py
 
-      - name: Commit & push JSON + logg
+      - name: 💾 Committa & pusha JSON
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add loppisar.json scrape.log
-          git commit -m "🤖 Automatisk uppdatering $(date +'%Y-%m-%d %H:%M')" || echo "Inga ändringar"
+          git config user.name "GitHub Action"
+          git config user.email "darioswede@gmail.com"
+          git add loppisar.json
+          git commit -m "🆕 Uppdaterade loppisar.json automatiskt $(date '+%Y-%m-%d %H:%M')" || echo "Inget nytt att committa"
           git push
 
-  notify:
-    needs: scrape
-    if: failure()
-    runs-on: ubuntu-latest
-    steps:
-      - name: Skicka e-post vid fel
+      - name: 📬 Skicka e-post vid fel
+        if: failure()
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
-          server_port: 587
+          server_port: 465
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "❌ LoppApp scraping misslyckades"
+          subject: "❌ LoppApp GitHub Action misslyckades"
+          body: "Nattens scraping misslyckades.\nSe loggen: https://github.com/DarioSwede/loppapp-data/actions"
           to: darioswede@gmail.com
-          from: LoppApp Bot <${{ secrets.SMTP_USERNAME }}>
-          body: |
-            Scraping av loppisar misslyckades.
-
-            Repo: https://github.com/DarioSwede/loppapp-data/actions
-
-            Datum: ${{ github.event.head_commit.timestamp }}
+          from: LoppApp GitHub <darioswede@gmail.com>
+          secure: true
