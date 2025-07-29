@@ -1,1 +1,32 @@
+# Skapad: 2025-07-29 09:19
+name: Scrape Loppistajm
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Kör varje dag kl 04:00 svensk tid (02:00 UTC)
+  workflow_dispatch:      # Manuell körning från GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Klona repo
+      uses: actions/checkout@v3
+
+    - name: Installera Python och beroenden
+      run: |
+        python3 -m pip install --upgrade pip
+        pip install beautifulsoup4 requests
+
+    - name: Kör scraping
+      run: python3 scrape_loppistajm.py
+
+    - name: Lägg till och committa ändringar
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add loppisar.json
+        git commit -m "🤖 Automatisk uppdatering av loppisar.json $(date +'%Y-%m-%d %H:%M')" || echo "Inga ändringar att committa"
+        git push
 
