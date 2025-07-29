@@ -50,8 +50,7 @@ jobs:
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
           subject: "❌ LoppApp scraping misslyckades"
-          #       to: mail@torbjornzimmerman.se
-          to: t.zimm@protonmail.com
+          to: darioswede@gmail.com
           from: LoppApp Bot <${{ secrets.SMTP_USERNAME }}>
           body: |
             Scraping av loppisar misslyckades.
