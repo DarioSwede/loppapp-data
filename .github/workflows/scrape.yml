@@ -1,32 +1,35 @@
-# Skapad: 2025-07-29 09:19
-name: Scrape Loppistajm
+# Skapad: 2025-07-29 23:59
+name: Automatiskt hämta loppisdata
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Kör varje dag kl 04:00 svensk tid (02:00 UTC)
-  workflow_dispatch:      # Manuell körning från GitHub
+    - cron: '59 23 * * *'  # Körs varje dag 23:59
+  workflow_dispatch:       # Möjliggör manuell körning
 
 jobs:
-  scrape:
+  run-scraper:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Klona repo
-      uses: actions/checkout@v3
+      - name: Klona repot
+        uses: actions/checkout@v3
 
-    - name: Installera Python och beroenden
-      run: |
-        python3 -m pip install --upgrade pip
-        pip install beautifulsoup4 requests
+      - name: Installera Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Kör scraping
-      run: python3 scrape_loppistajm.py
+      - name: Installera beroenden
+        run: |
+          pip install requests beautifulsoup4
 
-    - name: Lägg till och committa ändringar
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add loppisar.json
-        git commit -m "🤖 Automatisk uppdatering av loppisar.json $(date +'%Y-%m-%d %H:%M')" || echo "Inga ändringar att committa"
-        git push
+      - name: Kör scraping-scriptet
+        run: python scrape_loppistajm.py
 
+      - name: Committa och pusha resultat
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add loppisar.json
+          git commit -m "🗓 Auto-uppdaterad loppisar.json $(date +'%Y-%m-%d %H:%M')" || echo "Inget nytt att committa"
+          git push
